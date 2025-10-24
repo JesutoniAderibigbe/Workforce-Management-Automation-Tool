@@ -6,7 +6,7 @@
 
 ## 🧾 Description
 
-**WorkFlow Connect** is a Google Apps Script project that automates the onboarding and communication process for new workers and excos in an organization.
+**WorkForce Management Automation Tool** is a Google Apps Script project that automates the onboarding and communication process for new workers and excos in an organization.
 
 When new workers or excos fill out a Google Form, the system automatically:
 - Generates personalized Google Docs (letters)
