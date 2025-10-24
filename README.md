@@ -103,12 +103,6 @@ It integrates **Google Forms**, **Google Sheets**, **Google Docs**, **Gmail**, *
 
 ---
 
-## 📸 Example Workflow
-
-*(Optional – add screenshots of your AppSheet dashboard, letters, or email samples)*
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!  
