@@ -122,7 +122,7 @@ If you’d like to add new features or enhance the automation (like templating o
 
 | Field | Value |
 |-------|--------|
-| **Repository Name** | `workflow-connect` |
+| **Repository Name** | `workforce-management-automation-tool` |
 | **Short Description** | Automates onboarding, unit assignment, and personalized email communication using Google Apps Script |
 | **Tags** | `google-apps-script`, `automation`, `gmail`, `google-drive`, `onboarding`, `workflow`, `appsheet` |
 
